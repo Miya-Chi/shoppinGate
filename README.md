@@ -10,3 +10,7 @@
 - CSS
 - js
 - laravel
+
+# インストール手順
+1. GitHubからクローンする
+1. (index.html)を開く
