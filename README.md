@@ -13,4 +13,4 @@
 
 # インストール手順
 1. GitHubからクローンする
-1. (index.html)を開く
+1. index.htmlを開く
